@@ -29,7 +29,7 @@ Use this prompt to build a smart summary chatbot effortlessly! It’s simple to 
 ---
 
 ## 💳 Pricing
-The **Mina’s SmartSummary Prompt** is available for purchase. Please check out the **pricing.md** for more details.
+The **Mina’s SmartSummary Prompt** is available for purchase. Please check out the **[pricing](Pricing.md)** for more details.
 
 ---
 
