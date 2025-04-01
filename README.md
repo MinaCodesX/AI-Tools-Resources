@@ -29,7 +29,7 @@ Below are some useful AI prompts to help you learn effectively:
 - **Description**: Summarize long articles or reports quickly.  
 - **Use Case**: Great for students and researchers who need concise summaries.  
 - **Price**: Paid  
-- **Link**: [SmartSummary Prompt](https://minamamdouh1.gumroad.com/l/ai_summary_prompt_pro)
+- **Link**: [SmartSummary Prompt](Prompts/Mina-SmartSummary-Prompt.md)
 
 ### **2. Interactive MCQ Generator Prompt**  
 - **Description**: Generate multiple-choice questions (MCQs) from any content.  
